@@ -23,7 +23,7 @@ Gem::Specification.new do |gem|
   gem.homepage = "https://github.com/akihikodaki/cld3-ruby"
   gem.author = "Akihiko Odaki"
   gem.email = "akihiko.odaki@gmail.com"
-  gem.required_ruby_version = [ ">= 3.1.0", "< 3.5.0" ]
+  gem.required_ruby_version = [ ">= 3.1.0", "< 4.1.0" ]
   gem.add_development_dependency "rbs", "~> 3.6.0"
   gem.add_development_dependency "rspec", "~> 3.13.0"
   gem.add_development_dependency "steep", "~> 1.8.0"
